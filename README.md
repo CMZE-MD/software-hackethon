@@ -1,9 +1,9 @@
 # software-hackethon
 please create your own .env file inside backend folder and supply the following
 ``` 
-USER = 
-PASSWORD = 
-DATABASE = 
+USER = CMZE
+PASSWORD = JiveCandlexs 
+DATABASE = ...$...
 ```
 and then, inside the terminal, start the backend server by running
 
